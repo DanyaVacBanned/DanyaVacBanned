@@ -1,19 +1,9 @@
-"""-----------------------------------------------------------------------------------------------------------------------------------"""<br>
-#About me👤<br>
-HI = "My name is DanyaVacBanned🖥"<br>
-Im = "a Python Developer🐍"<br>
-Years_old = 19<br>
-#My Hobbies<br>
-"""<br>
-I am really like to do digital arts, because it brings me aesthetic pleasure, as well as earnings✍️.<br>
-Also i love games. In the future i think to learn some game engines like Unity and Unreal Engine🕹.<br>
--------<br>
-So, if you want to see my creations, i have left links to the all my sources down below.<br>
-⬇️⬇️⬇️<br>
-✔️Telegram-chanel with my digital art works - https://t.me/whitewolfdn<br>
-✔️VK-public also with my digital art works - https://vk.com/danyavacbanps<br>
-✔️YouTube-chanel with my entertainment content - https://www.youtube.com/channel/UCCEHdkdgyeZRJCAMbXwX1Jw<br>
-✔️Telegram-channel with my achivements in programming - https://t.me/whitewolfprog<br>
-✔️Instagram - https://www.instagram.com/whitewolfvban/<br>
---------<br>
-"""
+"""-----------------------------------------------------------------------------------------------------------------------------------""
+<h2>
+  <p> Hello, my name is Danil </p>
+  <p> I am a Python-developer </p>
+</h2>
+<h4>
+  <p> I write different programs for different needs, but mostly it's (for now) telegram bots and parsers </p>
+  <p> Now in my reps you can find only Python projects, but in future i will droping here some HTML+CSS+JS and C# programs </p>
+</h4>
