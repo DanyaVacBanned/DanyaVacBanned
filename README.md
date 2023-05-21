@@ -4,6 +4,6 @@
   <p> I am a Python-developer </p>
 </h2>
 <h4>
-  <p> I am writing different programs for different tasks, but mostly it's (for now) telegram bots and parsers </p>
+  <p> Backend development </p>
 
 </h4>
