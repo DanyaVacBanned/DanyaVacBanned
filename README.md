@@ -13,7 +13,7 @@
   
                                         
 
--  🌐 I currently work at [IT ONLY](https://it-only.ru/)  
+-  🌐 I currently work at [PayDigital](https://paydigital.shop/)  
   
 
 - 🕶️  Unfortunately you won't find my work projects here because of NDA  
